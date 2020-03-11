@@ -1,0 +1,11 @@
+typedef   struct {
+	char     name[25];
+	ftoat    mark;
+} student;
+
+int main() {	
+	student   s[50]; 
+	strcmp(s[7].name, “Jonh Henry”);
+	s[7].mark=7.5;
+	…..
+}
